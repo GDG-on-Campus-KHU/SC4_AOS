@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">pack_mate</string>
+    <string name="title_activity_pack_web_view">PackWebViewActivity</string>
+    <string name="title_activity_about">AboutActivity</string>
 </resources>

@@ -28,7 +28,7 @@ fun WebViewScreen() {
     val context = LocalContext.current
     android.webkit.WebView(context).apply {
         webViewClient = WebViewClient()
-        loadUrl("https://www.naver.com")
+        loadUrl("https://packmate-three.vercel.app/main")
     }
 }
 @Preview(showBackground = true)
